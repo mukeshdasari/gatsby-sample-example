@@ -1,0 +1,1693 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "38b93867a270e85f1db072e585789994",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "971dd4c74c018019768605cbb4ea9398",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "d3a5ddec640c40b3411ef38abea2d8c2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "4f187de85b69aaca0ef14203c59f065d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "e8430c67e41596652e565ea315e42c46",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "2f2fc27ecd3981c980bc1893c595d7fb",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "628c377c36a68fb5bb457f06d3ef340d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2": {
+      "resolve": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby-transformer-remark",
+      "id": "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2",
+      "name": "gatsby-transformer-remark",
+      "version": "2.3.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.3.5",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-to-string",
+            "version": "^1.0.5"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.5"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.88"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "f37f3182621c9478f2f908a45c7009d0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "2c5d3a96-6fe0-5775-b8fc-e9860a1a2177": {
+      "resolve": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby-plugin-emotion",
+      "id": "2c5d3a96-6fe0-5775-b8fc-e9860a1a2177",
+      "name": "gatsby-plugin-emotion",
+      "version": "4.0.6",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateBabelConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby-plugin-emotion",
+      "packageJson": {
+        "name": "gatsby-plugin-emotion",
+        "description": "Gatsby plugin to add support for Emotion",
+        "version": "4.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "emotion",
+          "css-in-js"
+        ],
+        "author": {
+          "name": "Tegan Churchill",
+          "email": "churchill.tegan@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@emotion/babel-preset-css-prop",
+            "version": "^10.0.5"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "@emotion/core",
+            "version": "^10.0.5"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "e34ab1cf7fd08ff959e13c833df2ae82",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "64059fc2-eafe-53ab-a542-ad6d70a5c7ff": {
+      "resolve": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby-plugin-typography",
+      "id": "64059fc2-eafe-53ab-a542-ad6d70a5c7ff",
+      "name": "gatsby-plugin-typography",
+      "version": "2.2.10",
+      "pluginOptions": {
+        "plugins": [],
+        "pathToConfigModule": "src/utils/typography"
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [
+        "onRenderBody",
+        "onPreRenderHTML"
+      ],
+      "pluginFilepath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby-plugin-typography",
+      "packageJson": {
+        "name": "gatsby-plugin-typography",
+        "description": "Gatsby plugin to setup server rendering of Typography.js' CSS",
+        "version": "2.2.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "typography",
+          "typography.js"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.18"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.18"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.1 || ^1.0.0-alpha.0"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.0 || ^1.0.0-alpha.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "26ec11ee6f5715545d2506fea4b0d6ec",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "89b897a593390c048afc1fb3e069e260",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "createPages"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example",
+      "packageJson": {
+        "name": "gatsby-starter-hello-world",
+        "description": "A simplified bare-bones starter for Gatsby",
+        "version": "0.1.0",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@emotion/core",
+            "version": "^10.0.9"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.1.31"
+          },
+          {
+            "name": "gatsby-plugin-emotion",
+            "version": "^4.0.6"
+          },
+          {
+            "name": "gatsby-plugin-typography",
+            "version": "^2.2.10"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.27"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.3.5"
+          },
+          {
+            "name": "react",
+            "version": "^16.8.4"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.8.4"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.19"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.19"
+          },
+          {
+            "name": "typography-theme-kirkham",
+            "version": "^0.16.19"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.16.4"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "01e93c2ed49c89f082e7d766f24b97a8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Pandas Eating Lots"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-03-18T16:52:34.375Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "206d743878331bfb71820b411657bf24",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "508ffae2-ae4e-571d-b0a1-50692510ad11": {
+      "resolve": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby-source-filesystem",
+      "id": "508ffae2-ae4e-571d-b0a1-50692510ad11",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.27",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "src",
+        "path": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.27",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "09dcb9ccb7f8e3da7415fa1d1a67063d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "e731bb9a-16e4-59a7-839a-1eab8fbfd5f7": {
+      "resolve": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby-plugin-page-creator",
+      "id": "e731bb9a-16e4-59a7-839a-1eab8fbfd5f7",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.10",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "e8b6c8e7ec199bb4e354b436eba63a57",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "0edacddc-a952-55ec-9357-265c02097eb2": {
+      "id": "0edacddc-a952-55ec-9357-265c02097eb2",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "68333cd8d74b265d80897a7364830a83",
+        "type": "Directory",
+        "description": "Directory \"src\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src",
+      "relativePath": "",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2019-03-18T15:00:02.427Z",
+      "accessTime": "2019-03-18T15:02:40.272Z",
+      "changeTime": "2019-03-18T15:00:11.271Z",
+      "birthTime": "2019-03-18T15:00:11.271Z",
+      "root": "/",
+      "dir": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example",
+      "base": "src",
+      "ext": "",
+      "name": "src",
+      "relativeDirectory": "..",
+      "dev": 2055,
+      "mode": 16893,
+      "nlink": 6,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2097505,
+      "blocks": 8,
+      "atimeMs": 1552921360271.7688,
+      "mtimeMs": 1552921202427.3752,
+      "ctimeMs": 1552921211271.0938,
+      "birthtimeMs": 1552921211271.0938,
+      "atime": "2019-03-18T15:02:40.272Z",
+      "mtime": "2019-03-18T15:00:02.427Z",
+      "ctime": "2019-03-18T15:00:11.271Z",
+      "birthtime": "2019-03-18T15:00:11.271Z"
+    },
+    "eddb32ff-a16e-54ef-9021-174291f61368": {
+      "id": "eddb32ff-a16e-54ef-9021-174291f61368",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "3da9391aff06098360f19ec56c645f91",
+        "type": "Directory",
+        "description": "Directory \"src/components\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/components",
+      "relativePath": "components",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2019-03-18T09:46:44.000Z",
+      "accessTime": "2019-03-18T15:02:40.276Z",
+      "changeTime": "2019-03-18T15:00:02.427Z",
+      "birthTime": "2019-03-18T15:00:02.427Z",
+      "root": "/",
+      "dir": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src",
+      "base": "components",
+      "ext": "",
+      "name": "components",
+      "relativeDirectory": "",
+      "dev": 2055,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2097506,
+      "blocks": 8,
+      "atimeMs": 1552921360275.7686,
+      "mtimeMs": 1552902404000,
+      "ctimeMs": 1552921202427.3752,
+      "birthtimeMs": 1552921202427.3752,
+      "atime": "2019-03-18T15:02:40.276Z",
+      "mtime": "2019-03-18T09:46:44.000Z",
+      "ctime": "2019-03-18T15:00:02.427Z",
+      "birthtime": "2019-03-18T15:00:02.427Z"
+    },
+    "5605ee0c-45cc-5add-8e82-5144e5c03b3e": {
+      "id": "5605ee0c-45cc-5add-8e82-5144e5c03b3e",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "bdc0dc2a428aaee7811568f20378171c",
+        "type": "Directory",
+        "description": "Directory \"src/pages\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages",
+      "relativePath": "pages",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2019-03-18T12:00:30.000Z",
+      "accessTime": "2019-03-18T15:02:40.276Z",
+      "changeTime": "2019-03-18T15:00:02.427Z",
+      "birthTime": "2019-03-18T15:00:02.427Z",
+      "root": "/",
+      "dir": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "",
+      "dev": 2055,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2097508,
+      "blocks": 8,
+      "atimeMs": 1552921360275.7686,
+      "mtimeMs": 1552910430000,
+      "ctimeMs": 1552921202427.3752,
+      "birthtimeMs": 1552921202427.3752,
+      "atime": "2019-03-18T15:02:40.276Z",
+      "mtime": "2019-03-18T12:00:30.000Z",
+      "ctime": "2019-03-18T15:00:02.427Z",
+      "birthtime": "2019-03-18T15:00:02.427Z"
+    },
+    "5bfa1e68-1283-563c-94e6-4d06691b8c97": {
+      "id": "5bfa1e68-1283-563c-94e6-4d06691b8c97",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "f27c07a294c5998485ad26f6b9fb2f36",
+        "type": "Directory",
+        "description": "Directory \"src/templates\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/templates",
+      "relativePath": "templates",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2019-03-18T12:24:08.000Z",
+      "accessTime": "2019-03-18T15:02:40.276Z",
+      "changeTime": "2019-03-18T15:00:02.427Z",
+      "birthTime": "2019-03-18T15:00:02.427Z",
+      "root": "/",
+      "dir": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src",
+      "base": "templates",
+      "ext": "",
+      "name": "templates",
+      "relativeDirectory": "",
+      "dev": 2055,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2097514,
+      "blocks": 8,
+      "atimeMs": 1552921360275.7686,
+      "mtimeMs": 1552911848000,
+      "ctimeMs": 1552921202427.3752,
+      "birthtimeMs": 1552921202427.3752,
+      "atime": "2019-03-18T15:02:40.276Z",
+      "mtime": "2019-03-18T12:24:08.000Z",
+      "ctime": "2019-03-18T15:00:02.427Z",
+      "birthtime": "2019-03-18T15:00:02.427Z"
+    },
+    "4e04cb9e-243a-551a-b16b-0da17a9f4e16": {
+      "id": "4e04cb9e-243a-551a-b16b-0da17a9f4e16",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "5a6e6098376cd161bb5940ee70add002",
+        "type": "Directory",
+        "description": "Directory \"src/utils\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/utils",
+      "relativePath": "utils",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2019-03-18T09:49:02.000Z",
+      "accessTime": "2019-03-18T15:02:40.276Z",
+      "changeTime": "2019-03-18T15:00:02.427Z",
+      "birthTime": "2019-03-18T15:00:02.427Z",
+      "root": "/",
+      "dir": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src",
+      "base": "utils",
+      "ext": "",
+      "name": "utils",
+      "relativeDirectory": "",
+      "dev": 2055,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2097516,
+      "blocks": 8,
+      "atimeMs": 1552921360275.7686,
+      "mtimeMs": 1552902542000,
+      "ctimeMs": 1552921202427.3752,
+      "birthtimeMs": 1552921202427.3752,
+      "atime": "2019-03-18T15:02:40.276Z",
+      "mtime": "2019-03-18T09:49:02.000Z",
+      "ctime": "2019-03-18T15:00:02.427Z",
+      "birthtime": "2019-03-18T15:00:02.427Z"
+    },
+    "49baa0c3-4518-5e19-918c-e704110c959f": {
+      "id": "49baa0c3-4518-5e19-918c-e704110c959f",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "23fdedb473ef9f32c170575002ff1625",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/components/layout.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/components/layout.js",
+      "relativePath": "components/layout.js",
+      "extension": "js",
+      "size": 1273,
+      "prettySize": "1.27 kB",
+      "modifiedTime": "2019-03-18T10:14:36.000Z",
+      "accessTime": "2019-03-18T15:02:40.304Z",
+      "changeTime": "2019-03-18T15:00:02.423Z",
+      "birthTime": "2019-03-18T15:00:02.423Z",
+      "root": "/",
+      "dir": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/components",
+      "base": "layout.js",
+      "ext": ".js",
+      "name": "layout",
+      "relativeDirectory": "components",
+      "dev": 2055,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2097507,
+      "blocks": 8,
+      "atimeMs": 1552921360303.766,
+      "mtimeMs": 1552904076000,
+      "ctimeMs": 1552921202423.396,
+      "birthtimeMs": 1552921202423.396,
+      "atime": "2019-03-18T15:02:40.304Z",
+      "mtime": "2019-03-18T10:14:36.000Z",
+      "ctime": "2019-03-18T15:00:02.423Z",
+      "birthtime": "2019-03-18T15:00:02.423Z"
+    },
+    "072a1d3a-2034-53d4-8efb-de23a59579d0": {
+      "id": "072a1d3a-2034-53d4-8efb-de23a59579d0",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "903a83d0dac18b69757a33a2513afe69",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/about.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages/about.js",
+      "relativePath": "pages/about.js",
+      "extension": "js",
+      "size": 540,
+      "prettySize": "540 B",
+      "modifiedTime": "2019-03-18T09:58:02.000Z",
+      "accessTime": "2019-03-18T15:02:40.304Z",
+      "changeTime": "2019-03-18T15:00:02.423Z",
+      "birthTime": "2019-03-18T15:00:02.423Z",
+      "root": "/",
+      "dir": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages",
+      "base": "about.js",
+      "ext": ".js",
+      "name": "about",
+      "relativeDirectory": "pages",
+      "dev": 2055,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2097509,
+      "blocks": 8,
+      "atimeMs": 1552921360303.766,
+      "mtimeMs": 1552903082000,
+      "ctimeMs": 1552921202423.396,
+      "birthtimeMs": 1552921202423.396,
+      "atime": "2019-03-18T15:02:40.304Z",
+      "mtime": "2019-03-18T09:58:02.000Z",
+      "ctime": "2019-03-18T15:00:02.423Z",
+      "birthtime": "2019-03-18T15:00:02.423Z"
+    },
+    "930e41a3-45f2-543f-86c4-8000e5ed2969": {
+      "id": "930e41a3-45f2-543f-86c4-8000e5ed2969",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "5d44c445beb772f4d965816fa1338bcd",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages/index.js",
+      "relativePath": "pages/index.js",
+      "extension": "js",
+      "size": 1768,
+      "prettySize": "1.77 kB",
+      "modifiedTime": "2019-03-18T12:41:46.000Z",
+      "accessTime": "2019-03-18T15:02:40.304Z",
+      "changeTime": "2019-03-18T15:00:02.423Z",
+      "birthTime": "2019-03-18T15:00:02.423Z",
+      "root": "/",
+      "dir": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "pages",
+      "dev": 2055,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2097510,
+      "blocks": 8,
+      "atimeMs": 1552921360303.766,
+      "mtimeMs": 1552912906000,
+      "ctimeMs": 1552921202423.396,
+      "birthtimeMs": 1552921202423.396,
+      "atime": "2019-03-18T15:02:40.304Z",
+      "mtime": "2019-03-18T12:41:46.000Z",
+      "ctime": "2019-03-18T15:00:02.423Z",
+      "birthtime": "2019-03-18T15:00:02.423Z"
+    },
+    "25622974-7d59-5d3b-beb5-a353ff350cde": {
+      "id": "25622974-7d59-5d3b-beb5-a353ff350cde",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "0db56d088fd6cfe7c645cf9b463495f4",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/pages/my-files.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages/my-files.js",
+      "relativePath": "pages/my-files.js",
+      "extension": "js",
+      "size": 1453,
+      "prettySize": "1.45 kB",
+      "modifiedTime": "2019-03-18T10:35:18.000Z",
+      "accessTime": "2019-03-18T15:02:40.304Z",
+      "changeTime": "2019-03-18T15:00:02.423Z",
+      "birthTime": "2019-03-18T15:00:02.423Z",
+      "root": "/",
+      "dir": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages",
+      "base": "my-files.js",
+      "ext": ".js",
+      "name": "my-files",
+      "relativeDirectory": "pages",
+      "dev": 2055,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2097511,
+      "blocks": 8,
+      "atimeMs": 1552921360303.766,
+      "mtimeMs": 1552905318000,
+      "ctimeMs": 1552921202423.396,
+      "birthtimeMs": 1552921202423.396,
+      "atime": "2019-03-18T15:02:40.304Z",
+      "mtime": "2019-03-18T10:35:18.000Z",
+      "ctime": "2019-03-18T15:00:02.423Z",
+      "birthtime": "2019-03-18T15:00:02.423Z"
+    },
+    "ef1e3043-0b17-57b2-adb5-bd491d14ee92": {
+      "id": "ef1e3043-0b17-57b2-adb5-bd491d14ee92",
+      "children": [
+        "867fe429-b905-5d8d-96c7-565903918778"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "44cbd1810eaf75ab2a03229c0525cdd1",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/pandas-and-bananas.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages/pandas-and-bananas.md",
+      "relativePath": "pages/pandas-and-bananas.md",
+      "extension": "md",
+      "size": 298,
+      "prettySize": "298 B",
+      "modifiedTime": "2019-03-18T12:00:46.000Z",
+      "accessTime": "2019-03-18T15:02:40.304Z",
+      "changeTime": "2019-03-18T15:00:02.423Z",
+      "birthTime": "2019-03-18T15:00:02.423Z",
+      "root": "/",
+      "dir": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages",
+      "base": "pandas-and-bananas.md",
+      "ext": ".md",
+      "name": "pandas-and-bananas",
+      "relativeDirectory": "pages",
+      "dev": 2055,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2097512,
+      "blocks": 8,
+      "atimeMs": 1552921360303.766,
+      "mtimeMs": 1552910446000,
+      "ctimeMs": 1552921202423.396,
+      "birthtimeMs": 1552921202423.396,
+      "atime": "2019-03-18T15:02:40.304Z",
+      "mtime": "2019-03-18T12:00:46.000Z",
+      "ctime": "2019-03-18T15:00:02.423Z",
+      "birthtime": "2019-03-18T15:00:02.423Z"
+    },
+    "43a18b8d-ee0f-560b-84a4-0c3deb51fd63": {
+      "id": "43a18b8d-ee0f-560b-84a4-0c3deb51fd63",
+      "children": [
+        "4804a009-de42-508d-a0d3-3cecd78277b3"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "3096b5edb7d7aceaaca0c75d8f0f4064",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/sweet-pandas-eating-sweets.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages/sweet-pandas-eating-sweets.md",
+      "relativePath": "pages/sweet-pandas-eating-sweets.md",
+      "extension": "md",
+      "size": 255,
+      "prettySize": "255 B",
+      "modifiedTime": "2019-03-18T11:58:38.000Z",
+      "accessTime": "2019-03-18T15:02:40.304Z",
+      "changeTime": "2019-03-18T15:00:02.427Z",
+      "birthTime": "2019-03-18T15:00:02.427Z",
+      "root": "/",
+      "dir": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages",
+      "base": "sweet-pandas-eating-sweets.md",
+      "ext": ".md",
+      "name": "sweet-pandas-eating-sweets",
+      "relativeDirectory": "pages",
+      "dev": 2055,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2097513,
+      "blocks": 8,
+      "atimeMs": 1552921360303.766,
+      "mtimeMs": 1552910318000,
+      "ctimeMs": 1552921202427.3752,
+      "birthtimeMs": 1552921202427.3752,
+      "atime": "2019-03-18T15:02:40.304Z",
+      "mtime": "2019-03-18T11:58:38.000Z",
+      "ctime": "2019-03-18T15:00:02.427Z",
+      "birthtime": "2019-03-18T15:00:02.427Z"
+    },
+    "313d094c-2bb4-5c74-887d-f998e26e4a98": {
+      "id": "313d094c-2bb4-5c74-887d-f998e26e4a98",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "dbae792acf7a02f1721ac49ddec9887e",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/templates/blog-post.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/templates/blog-post.js",
+      "relativePath": "templates/blog-post.js",
+      "extension": "js",
+      "size": 613,
+      "prettySize": "613 B",
+      "modifiedTime": "2019-03-18T12:33:36.000Z",
+      "accessTime": "2019-03-18T15:02:40.304Z",
+      "changeTime": "2019-03-18T15:00:02.427Z",
+      "birthTime": "2019-03-18T15:00:02.427Z",
+      "root": "/",
+      "dir": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/templates",
+      "base": "blog-post.js",
+      "ext": ".js",
+      "name": "blog-post",
+      "relativeDirectory": "templates",
+      "dev": 2055,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2097515,
+      "blocks": 8,
+      "atimeMs": 1552921360303.766,
+      "mtimeMs": 1552912416000,
+      "ctimeMs": 1552921202427.3752,
+      "birthtimeMs": 1552921202427.3752,
+      "atime": "2019-03-18T15:02:40.304Z",
+      "mtime": "2019-03-18T12:33:36.000Z",
+      "ctime": "2019-03-18T15:00:02.427Z",
+      "birthtime": "2019-03-18T15:00:02.427Z"
+    },
+    "867fe429-b905-5d8d-96c7-565903918778": {
+      "id": "867fe429-b905-5d8d-96c7-565903918778",
+      "children": [],
+      "parent": "ef1e3043-0b17-57b2-adb5-bd491d14ee92",
+      "internal": {
+        "content": "\r\nDo Pandas eat bananas? Check out this short video that shows that yes! pandas do\r\nseem to really enjoy bananas!\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4SZl1r2O_bY\" frameborder=\"0\" allowfullscreen></iframe>",
+        "type": "MarkdownRemark",
+        "contentDigest": "123be37afcd09c511c167911b322174d",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Pandas and Bananas",
+        "date": "2017-08-21"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\nDo Pandas eat bananas? Check out this short video that shows that yes! pandas do\r\nseem to really enjoy bananas!\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4SZl1r2O_bY\" frameborder=\"0\" allowfullscreen></iframe>",
+      "fileAbsolutePath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages/pandas-and-bananas.md",
+      "fields": {
+        "slug": "/pandas-and-bananas/"
+      }
+    },
+    "4804a009-de42-508d-a0d3-3cecd78277b3": {
+      "id": "4804a009-de42-508d-a0d3-3cecd78277b3",
+      "children": [],
+      "parent": "43a18b8d-ee0f-560b-84a4-0c3deb51fd63",
+      "internal": {
+        "content": "Pandas are really sweet.\r\nHere's a video of panda eating sweets.\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>",
+        "type": "MarkdownRemark",
+        "contentDigest": "12373621a3c23a363aefed2b4d8ea1a0",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Sweet Pandas Eating Sweets",
+        "date": "2017-08-10"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Pandas are really sweet.\r\nHere's a video of panda eating sweets.\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>",
+      "fileAbsolutePath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages/sweet-pandas-eating-sweets.md",
+      "fields": {
+        "slug": "/sweet-pandas-eating-sweets/"
+      }
+    },
+    "33db66ab-9244-5e1c-b757-9ef33b87db91": {
+      "id": "33db66ab-9244-5e1c-b757-9ef33b87db91",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "dd8451cac86882b886f01b0b44a3d3e5",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/utils/typography.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/utils/typography.js",
+      "relativePath": "utils/typography.js",
+      "extension": "js",
+      "size": 209,
+      "prettySize": "209 B",
+      "modifiedTime": "2019-03-18T09:49:08.000Z",
+      "accessTime": "2019-03-18T15:02:40.316Z",
+      "changeTime": "2019-03-18T15:00:02.427Z",
+      "birthTime": "2019-03-18T15:00:02.427Z",
+      "root": "/",
+      "dir": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/utils",
+      "base": "typography.js",
+      "ext": ".js",
+      "name": "typography",
+      "relativeDirectory": "utils",
+      "dev": 2055,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 2097517,
+      "blocks": 8,
+      "atimeMs": 1552921360315.7651,
+      "mtimeMs": 1552902548000,
+      "ctimeMs": 1552921202427.3752,
+      "birthtimeMs": 1552921202427.3752,
+      "atime": "2019-03-18T15:02:40.316Z",
+      "mtime": "2019-03-18T09:49:08.000Z",
+      "ctime": "2019-03-18T15:00:02.427Z",
+      "birthtime": "2019-03-18T15:00:02.427Z"
+    },
+    "SitePage /pandas-and-bananas/": {
+      "jsonName": "pandas-and-bananas-c27",
+      "internalComponentName": "ComponentPandasAndBananas",
+      "path": "/pandas-and-bananas/",
+      "component": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/pandas-and-bananas/"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/templates/blog-post.js",
+      "id": "SitePage /pandas-and-bananas/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ef61aaaae1acf3e35a22b07faca735bc",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /sweet-pandas-eating-sweets/": {
+      "jsonName": "sweet-pandas-eating-sweets-34f",
+      "internalComponentName": "ComponentSweetPandasEatingSweets",
+      "path": "/sweet-pandas-eating-sweets/",
+      "component": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/sweet-pandas-eating-sweets/"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/templates/blog-post.js",
+      "id": "SitePage /sweet-pandas-eating-sweets/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2489fd0d3dd9f7f27ba1c3d1c5b0b7b6",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "jsonName": "about-f34",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "context": {},
+      "pluginCreator___NODE": "e731bb9a-16e4-59a7-839a-1eab8fbfd5f7",
+      "pluginCreatorId": "e731bb9a-16e4-59a7-839a-1eab8fbfd5f7",
+      "componentPath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "964f2c007b11d09984c6472fc31ff4f5",
+        "description": "e731bb9a-16e4-59a7-839a-1eab8fbfd5f7",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "e731bb9a-16e4-59a7-839a-1eab8fbfd5f7",
+      "pluginCreatorId": "e731bb9a-16e4-59a7-839a-1eab8fbfd5f7",
+      "componentPath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b76be44717513fb8facea0baa596048c",
+        "description": "e731bb9a-16e4-59a7-839a-1eab8fbfd5f7",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /my-files/": {
+      "jsonName": "my-files-317",
+      "internalComponentName": "ComponentMyFiles",
+      "path": "/my-files/",
+      "component": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages/my-files.js",
+      "componentChunkName": "component---src-pages-my-files-js",
+      "context": {},
+      "pluginCreator___NODE": "e731bb9a-16e4-59a7-839a-1eab8fbfd5f7",
+      "pluginCreatorId": "e731bb9a-16e4-59a7-839a-1eab8fbfd5f7",
+      "componentPath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages/my-files.js",
+      "id": "SitePage /my-files/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "309143de600cca4f44f45d5756c22a41",
+        "description": "e731bb9a-16e4-59a7-839a-1eab8fbfd5f7",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "cc1bbdba91012f3d38d2d3fd421a9d0f"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "sq--src-components-layout-js",
+        "/about/"
+      ],
+      "b0d4eaf4-cf23-5e83-892c-9b2689092800": [],
+      "7fccf810-cee2-5c07-98d6-04e681812d36": [],
+      "867fe429-b905-5d8d-96c7-565903918778": [
+        "/pandas-and-bananas/"
+      ],
+      "4804a009-de42-508d-a0d3-3cecd78277b3": [
+        "/sweet-pandas-eating-sweets/"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        null,
+        null,
+        "/"
+      ],
+      "File": [
+        "/my-files/"
+      ]
+    }
+  },
+  "jsonDataPaths": {
+    "sq--src-components-layout-js": 1979471389,
+    "my-files-317": "321/path---my-files-317-4c7-38sTPDoB3glQieKOFcIW2K6V48",
+    "index": "635/path---index-6a9-JLmH1hWTOSvfdr4jYOQi4bC8KI",
+    "about-f34": "174/path---about-f-34-4c2-hRx9gYIHzxRutAycoPREtUcvSa4",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "pandas-and-bananas-c27": "74/path---pandas-and-bananas-c-27-086-6z2Obr7WeHZs1zz24wrYOTNgc",
+    "sweet-pandas-eating-sweets-34f": "144/path---sweet-pandas-eating-sweets-34-f-7c4-Gbb5HNdfmPSOAP1xPqMWrIABVQ"
+  },
+  "components": {
+    "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/templates/blog-post.js": {
+      "query": "query homeMukeshWorkingDirGatsbyDevGatsbySampleExampleSrcTemplatesBlogPostJs4158039945(\n  $slug: String!\n) {\n  markdownRemark(fields: {slug: {eq: $slug}}) {\n    html\n    frontmatter {\n      title\n    }\n  }\n}\n",
+      "componentPath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/templates/blog-post.js"
+    },
+    "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/.cache/dev-404-page.js"
+    },
+    "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages/about.js": {
+      "query": "query homeMukeshWorkingDirGatsbyDevGatsbySampleExampleSrcPagesAboutJs4289011959 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "componentPath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages/about.js"
+    },
+    "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages/index.js": {
+      "query": "query homeMukeshWorkingDirGatsbyDevGatsbySampleExampleSrcPagesIndexJs4287084841 {\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    totalCount\n    edges {\n      node {\n        id\n        frontmatter {\n          title\n          date(formatString: \"DD MMMM, YYYY\")\n        }\n        fields {\n          slug\n        }\n        excerpt\n      }\n    }\n  }\n}\n",
+      "componentPath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages/index.js"
+    },
+    "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages/my-files.js": {
+      "query": "query homeMukeshWorkingDirGatsbyDevGatsbySampleExampleSrcPagesMyFilesJs3517313255 {\n  allFile {\n    edges {\n      node {\n        relativePath\n        prettySize\n        extension\n        birthTime(fromNow: true)\n      }\n    }\n  }\n}\n",
+      "componentPath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/pages/my-files.js"
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-layout-js": {
+      "name": "homeMukeshWorkingDirGatsbyDevGatsbySampleExampleSrcComponentsLayoutJs1979471389",
+      "componentPath": "/home/mukesh/WorkingDir/Gatsby_Dev/gatsby-sample-example/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query homeMukeshWorkingDirGatsbyDevGatsbySampleExampleSrcComponentsLayoutJs1979471389 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 1979471389
+    }
+  }
+}
